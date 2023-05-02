@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShashwatS0527000
 - 👀 I’m interested in coding and robotics, web and videogame development
-- 🌱 I’m currently learning web development tutorials
+- 🌱 I’m currently taking courses in Computer Science at UCF
 - 💞️ I’m looking to collaborate on robotics and video game developments
 - 📫 How to reach me: is through my email- shashwats@icloud.com
 
